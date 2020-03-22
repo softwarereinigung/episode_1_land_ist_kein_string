@@ -1,1 +1,6 @@
-# episode_1_land_ist_kein_string
+# Episode 1: Land ist kein String
+
+## Smell
+...
+
+
